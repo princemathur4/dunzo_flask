@@ -102,7 +102,7 @@ Run dunzo_flask using the following command:
 **Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Pip-3776AB.svg?style={badge_style}&logo=pypi&logoColor=white" />](https://pypi.org/project/pip/)
 
 ```sh
-❯ python {entrypoint}
+❯ flask run app.py
 ```
 
 
@@ -110,7 +110,7 @@ Run dunzo_flask using the following command:
 ---
 ##  Project Roadmap
 - [x] API to return list of nearby available shops with their s (assume all shops are of the same kind)
-- [ ] API to return the menu and items availability of a particular shop
+- [x] API to return the menu and items availability of a particular shop
 - [ ] Add to cart option for a user, from a single shop
 - [ ] Allow users to place orders.
 - [ ] Delivery person assignment(based on distance)
