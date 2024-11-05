@@ -10,16 +10,6 @@
 	<img src="https://img.shields.io/github/languages/count/princemathur4/dunzo_flask?style=default&color=0080ff" alt="repo-language-count">
 </p>
 
-<p align="left">
-	<!-- Shields.io badges disabled, using skill icons. --></p>
-<p align="left">Built with the tools and technologies:</p>
-<p align="left">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=md&theme=light">
-	</a></p>
-</div>
-<br clear="right">
-
 ##  Table of Contents
 
 - [ Overview](#-overview)
