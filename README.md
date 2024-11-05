@@ -1,9 +1,6 @@
 <div align="left" style="position: relative;">
 
 <h1> Dunzo Backend (Python-Flask) </h1>
-<p align="left">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/princemathur4/dunzo_flask?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/princemathur4/dunzo_flask?style=default&color=0080ff" alt="repo-top-language">
